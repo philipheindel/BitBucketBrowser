@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BitBucketBrowser.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="credentials" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="baseURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://fdc-gov-git01d.l1id.local:8443/</Value>
+    </Setting>
+    <Setting Name="baseAPI" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rest/api/1.0/projects</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
